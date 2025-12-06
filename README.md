@@ -1,18 +1,19 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
-
+## Smart Eye Care System
+Smart Eye Care System is an AI-based application that analyzes retinal fundus images to detect common eye diseases such as:
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The system uses Deep Learning (CNN + Transfer Learning) for classification and Grad-CAM for explainable AI.
+A Spring Boot backend, Python ML model, and Cloudinary-based storage make the system scalable, secure, and easy to use.
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+Automatic retinal disease classification
+Image preprocessing and enhancement
+Explainability using Grad-CAM heatmaps
+Cloud storage for retinal images
+Patient history tracking
+REST API for model inference
+Simple and user-friendly interface
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
@@ -27,33 +28,26 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![WhatsApp Image 2025-11-25 at 11 07 59 PM (2)](https://github.com/user-attachments/assets/5f6dce1b-4297-448b-a1d6-3659b6cb6e17)
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Backend
+![output1](https://github.com/user-attachments/assets/1f287ec3-5ef2-42fc-b2c6-4967ea0505d5)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output2 - Frontend
+![output2](https://github.com/user-attachments/assets/2649619a-674a-4a98-939e-645890552a07)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
+Detection Accuracy: 76.7%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The Smart Eye Care System provides an efficient AI-driven solution for early detection of retinal diseases, enabling timely medical intervention and reducing the risk of vision loss. By integrating deep learning, explainable AI, and cloud-based image storage, the system enhances diagnostic efficiency and supports healthcare professionals in large-scale screening programs.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
-
+It also enables remote tele-ophthalmology, improving accessibility for rural and underserved regions where specialist availability is limited. This project serves as a foundation for advanced clinical decision-support tools and contributes to the transformation of smart healthcare technologies.
 ## Articles published / References
 1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
 2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
-
-
